@@ -1,7 +1,7 @@
 <br clear="both">
 <div align="center">
 <!--   https://tenor.com/bCCkQ.gif -->
-  <img width="600",height="100", src="https://media1.tenor.com/m/z6_-yfTprlQAAAAC/bubblegum-crisis-cyberpunk-anime.gif"  />
+  <img width="400",height="100", src="https://media1.tenor.com/m/z6_-yfTprlQAAAAC/bubblegum-crisis-cyberpunk-anime.gif"  />
 <!--   <img width="300",height="100", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
 </div>
 
