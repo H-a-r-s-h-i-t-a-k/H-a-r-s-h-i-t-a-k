@@ -1,10 +1,9 @@
 <br clear="both">
-<div class="tenor-gif-embed" data-postid="21557814" data-share-method="host" data-aspect-ratio="1.3913" data-width="100%"><a href="https://tenor.com/view/bubblegum-crisis-cyberpunk-anime-computer-gif-21557814">Bubblegum Crisis Cyberpunk Anime GIF</a>from <a href="https://tenor.com/search/bubblegum+crisis-gifs">Bubblegum Crisis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<!-- <div align="center">
+<div align="center">
 <!--   https://tenor.com/bCCkQ.gif -->
-  <img width="300",height="100", src="https://tenor.com/bCCkQ.gif"  />
+  <img width="300",height="100", src="https://media1.tenor.com/m/z6_-yfTprlQAAAAC/bubblegum-crisis-cyberpunk-anime.gif"  />
 <!--   <img width="300",height="100", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
-</div> -->
+</div>
 
 <h1 align="center">Namaste🙏,I'm HARSHITA</h1>
 <h3 align="center">A passionate frontend App developer from India</h3>
