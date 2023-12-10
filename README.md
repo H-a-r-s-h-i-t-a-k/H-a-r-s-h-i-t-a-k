@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div align="center">
+  <img width="400",height="100", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
+</div>
+
 <h1 align="center">Namaste🙏,I'm HARSHITA</h1>
 <h3 align="center">A passionate frontend App developer from India</h3>
 
