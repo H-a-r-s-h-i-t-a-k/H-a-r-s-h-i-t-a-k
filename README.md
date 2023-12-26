@@ -1,7 +1,7 @@
 <br clear="both">
 <div align="container">
 <!--   https://tenor.com/bCCkQ.gif -->
-  <img width="800",height="100" ,object-fit= "contain", src="https://github.com/H-a-r-s-h-i-t-a-k/FOODIEBOOKIN/blob/day1/assets/images/forgotpassword/giphy-1.gif"  />
+  <img width="1200",height="100" ,object-fit= "contain", src="https://github.com/H-a-r-s-h-i-t-a-k/FOODIEBOOKIN/blob/day1/assets/images/forgotpassword/giphy-1.gif"  />
 <!--   <img width="300",height="100", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
 </div>
 
