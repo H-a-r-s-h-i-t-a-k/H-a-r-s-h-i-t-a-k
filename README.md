@@ -1,9 +1,9 @@
 <br clear="both">
-<div align="center">
+<!-- <div align="center"> -->
 <!--   https://tenor.com/bCCkQ.gif -->
   <img width="700",height="100", src="https://github.com/H-a-r-s-h-i-t-a-k/FOODIEBOOKIN/blob/day1/assets/images/forgotpassword/giphy.gif"  />
 <!--   <img width="300",height="100", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
-</div>
+<!-- </div> -->
 
 <h1 align="center">Namaste🙏,I'm HARSHITA</h1>
 <h3 align="center">A passionate frontend App developer from India</h3>
