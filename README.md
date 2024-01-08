@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Namaste🙏,I'm HARSHITA</h1>
-<h3 align="center">A passionate frontend App developer from India</h3>
+<h3 align="center">A fervent frontend application developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-a-r-s-h-i-t-a-k&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-r-s-h-i-t-a-k" /> </p>
 
