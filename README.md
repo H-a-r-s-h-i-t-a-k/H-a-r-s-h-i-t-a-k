@@ -3,7 +3,7 @@
 <!--   https://tenor.com/bCCkQ.gif -->
   <img width="430",height="50" ,object-fit= "contain", src="https://github.com/H-a-r-s-h-i-t-a-k/FOODIEBOOKIN/blob/day1/assets/images/forgotpassword/giphy-1.gif"  />
 <!--   <img width="40",height="10", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
-
+</div>
 
 <h1 align="center">Namaste🙏,I'm HARSHITA</h1>
 <h3 align="center">A fervent frontend application developer from India.</h3>
