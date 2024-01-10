@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-a-r-s-h-i-t-a-k&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-r-s-h-i-t-a-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-a-r-s-h-i-t-a-k" alt="h-a-r-s-h-i-t-a-k" /></a> </p> 
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-a-r-s-h-i-t-a-k" alt="h-a-r-s-h-i-t-a-k" /></a> </p> -->
 
 - 🔭 I’m currently working on **FOODIEBOOKIN**
 
