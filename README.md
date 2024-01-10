@@ -51,20 +51,6 @@
 
 
 
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
-    <img src="https://github-readme-stats-matrix278.vercel.app/api?username=Matrix278&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
-  </a>
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-  </a>
-</div>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
