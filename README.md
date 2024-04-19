@@ -29,7 +29,7 @@
 
 <!-- - 📄 Know about my experiences [https://github.com/H-a-r-s-h-i-t-a-k/](https://github.com/H-a-r-s-h-i-t-a-k/)-->
 
-- ⚡ Fun fact **East or West, I'm the Best!   **
+- ⚡ Fun fact **East or West, I'm the Best!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
