@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [**SARVAYON**](https://github.com/H-a-r-s-h-i-t-a-k/Sarvayon/)
 
-<-- - 👨‍💻 All of my projects are available at [https://github.com/H-a-r-s-h-i-t-a-k/](https://github.com/H-a-r-s-h-i-t-a-k/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/H-a-r-s-h-i-t-a-k/](https://github.com/H-a-r-s-h-i-t-a-k/) -->
 
  <!-- - 📝 I regularly write articles on [Environmental_Values](Environmental_Values)-->
 
