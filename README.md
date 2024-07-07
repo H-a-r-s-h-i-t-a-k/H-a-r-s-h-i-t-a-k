@@ -4,8 +4,8 @@
 <!--   <img width="40",height="10", src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"  /> -->
 </div>
 
-<h1 align="center">Namaste🙏 ,I'm HARSHITA    </h1>
-<h3 align="center">A fervent application developer from India.</h3>
+<h1 align="center">Namaste🙏 ,I'm HARSHITA                  </h1>
+<h3 align="center">A fervent application developer from India.           </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-a-r-s-h-i-t-a-k&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-r-s-h-i-t-a-k" /> </p>
 
@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **East or West, I'm the Best!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:             </h3>
 <p align="left">
 <a href="https://twitter.com/harshita168359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita168359" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dharshita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htharshita-kashyap-45019a251" height="30" width="40" /></a>
