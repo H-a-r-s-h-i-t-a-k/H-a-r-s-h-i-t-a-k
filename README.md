@@ -9,25 +9,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-a-r-s-h-i-t-a-k&label=Profile%20views&color=0e75b6&style=flat" alt="h-a-r-s-h-i-t-a-k" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-a-r-s-h-i-t-a-k" alt="h-a-r-s-h-i-t-a-k" /></a> </p> -->
+
 
 - 🔭 I’m currently working on **FOODIEBOOKIN**
 
 - 🌱 I’m currently learning **FLUTTER,NODEJS,FIREBASE**
 
-<!--- 👯 I’m looking to collaborate on **STOPOLLUTION**-->
 
 - 🤝 I’m looking for help with [**SARVAYON**](https://github.com/H-a-r-s-h-i-t-a-k/Sarvayon/)
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/H-a-r-s-h-i-t-a-k/](https://github.com/H-a-r-s-h-i-t-a-k/) -->
 
- <!-- - 📝 I regularly write articles on [Environmental_Values](Environmental_Values)-->
-
-<!-- - 💬 Ask me about **AIM,PASSION**-->
 
 - 📫 How to reach me **kharshita1809@gmail.com**
-
-<!-- -                     kkkjkj 📄 Know about my experiences [https://github.com/H-a-r-s-h-i-t-a-k/](https://github.com/H-a-r-s-h-i-t-a-k/)-->
 
 - ⚡ Fun fact **East or West, I'm the Best!**
 
